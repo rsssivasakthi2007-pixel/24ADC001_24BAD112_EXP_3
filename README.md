@@ -1,1 +1,5 @@
+
+
+This project focuses on data cleaning and preprocessing using Tableau and Power BI to prepare datasets for accurate and reliable analysis. The Sample Superstore dataset in Tableau and the Financials/Sales dataset in Power BI were used to identify and resolve common data quality issues such as missing values, outliers, inconsistent text entries, and formatting errors. Built-in features like Data Interpreter in Tableau and Power Query in Power BI were utilized to detect and clean null values, standardize categorical data, and normalize date and currency formats. Scatter plots, box plots, histograms, and bar charts were created to identify and validate outliers before and after cleaning. Interactive dashboards were developed to summarize the data cleaning process, highlighting corrected fields, handled null values, adjusted outliers, and overall dataset quality metrics. This project demonstrates the importance of data preprocessing in business intelligence workflows, ensuring that clean, consistent, and accurate data is available for meaningful visualization and data-driven decision-making.
+
 # 24ADC001_24BAD112_EXP_3
